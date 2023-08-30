@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(206, 195, 195);
+    position: relative;
+}
+
+header{
+    position: relative;
+    background-color: rgb(143, 138, 138)  ;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+ul, li{
+    display: inline-block;
+    list-style-type: none;
+    margin-right: 5px;
+    padding: 10px;
+    position: relative;
+    left: 50%;
+    
+    
+
+}
+
+.main h1{
+    position: absolute;
+    right: 20%;
+    font-size: 4rem;
+}
+
+.content ul li a{
+    color: rgb(252, 245, 245);
+}
+
+header h4{
+    position: absolute;
+    left: 20%;
+    font-weight: 450px;   
+    font-size: 2rem;
+}
